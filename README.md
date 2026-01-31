@@ -1,3 +1,5 @@
+## Superceded by clips app in plus-cosmic-dev
+
 # ClipsArchiver
 [![Clips Archiver](https://github.com/PlusCosmic/ClipsArchiver.Server/actions/workflows/go.yml/badge.svg)](https://github.com/PlusCosmic/ClipsArchiver.Server/actions/workflows/go.yml)
 
